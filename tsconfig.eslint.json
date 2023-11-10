@@ -1,0 +1,10 @@
+{
+	"extends": "./tsconfig.json",
+	"include": [
+		"nuxt.config.ts",
+		"vite.config.ts",
+		"plugins/**/*.ts",
+		"scripts/**/*.ts",
+		".eslintrc.js"
+	]
+}

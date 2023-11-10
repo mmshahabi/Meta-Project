@@ -1,0 +1,30 @@
+{
+	"extends": "./.nuxt/tsconfig.json",
+	"compilerOptions": {
+		"types": [
+			"node",
+			"vite/client",
+		],
+		"target": "esnext",
+		"allowJs": true,
+		"skipLibCheck": true,
+		"noEmit": true,
+		"useDefineForClassFields": true,
+		"module": "esnext",
+		"moduleResolution": "node",
+		"jsx": "preserve",
+		"strict": true,
+		"sourceMap": true,
+		"resolveJsonModule": true,
+		"esModuleInterop": true,
+		"strictPropertyInitialization": false,
+		"noImplicitAny": false,
+		"strictNullChecks": false,
+		"baseUrl": ".",
+		"lib": [
+			"esnext",
+			"dom",
+			"WebWorker"
+		]
+	},
+}

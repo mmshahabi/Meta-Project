@@ -1,0 +1,17 @@
+release
+node_modules
+dist
+*.log*
+.nuxt
+.nitro
+.cache
+.output
+.env
+.DS_Store
+.gitconfig
+bun.lockb
+
+src-tauri/target
+
+*.zip
+*.rar

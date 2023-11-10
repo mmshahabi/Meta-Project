@@ -1,0 +1,71 @@
+{
+	// Editor
+	"editor.accessibilitySupport": "off",
+	"editor.codeActionsOnSave": {
+		"source.fixAll": true,
+	},
+	"editor.cursorSmoothCaretAnimation": "on",
+	"editor.fontLigatures": "'ss01', 'ss02', 'ss03', 'ss06', 'zero'",
+	"editor.formatOnSave": true,
+	"editor.guides.bracketPairs": "active",
+	"editor.inlineSuggest.enabled": true,
+	"editor.multiCursorModifier": "ctrlCmd",
+	"editor.suggestSelection": "first",
+	"editor.foldingImportsByDefault": true,
+	"eslint.codeAction.showDocumentation": {
+		"enable": true
+	},
+	// Eslint
+	"eslint.validate": [
+		"javascript",
+		"typescript",
+		"vue"
+	],
+	"search.exclude": {
+		"**/.git": true,
+		"**/.github": true,
+		"**/.nuxt": true,
+		"**/.output": true,
+		"**/.pnpm": true,
+		"**/.vscode": true,
+		"**/.yarn": true,
+		"**/dist/**": true,
+		"**/logs": true,
+		"**/node_modules": true,
+		"**/out/**": true,
+		"**/package-lock.json": true,
+		"**/pnpm-lock.yaml": true,
+		"**/tmp": true,
+		"**/yarn.lock": true
+	},
+	//Terminal
+	"terminal.integrated.cursorBlinking": true,
+	"terminal.integrated.cursorStyle": "line",
+	"volar.autoCompleteRefs": true,
+	"volar.completion.normalizeComponentImportName": true,
+	"volar.completion.preferredAttrNameCase": "auto-camel",
+	"volar.completion.preferredTagNameCase": "pascal",
+	"volar.doctor.statusBarItem": true,
+	// Volar
+	"html.format.enable": false,
+	"volar.updateImportsOnFileMove.enabled": true,
+	//Windows
+	"window.autoDetectColorScheme": true,
+	//workbench
+	"workbench.editor.highlightModifiedTabs": true,
+	"workbench.editor.limit.enabled": true,
+	"workbench.list.smoothScrolling": true,
+	"workbench.tree.indent": 10,
+	"sortJSON.contextMenu": {
+		"sortJSON": true,
+		"sortJSONAlphaNum": false,
+		"sortJSONAlphaNumReverse": false,
+		"sortJSONKeyLength": false,
+		"sortJSONKeyLengthReverse": false,
+		"sortJSONReverse": false,
+		"sortJSONType": false,
+		"sortJSONTypeReverse": false,
+		"sortJSONValues": false,
+		"sortJSONValuesReverse": false
+	}
+}

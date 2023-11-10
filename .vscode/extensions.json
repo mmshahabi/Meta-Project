@@ -1,0 +1,16 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "eamodio.gitlens",
+    "editorconfig.editorconfig",
+    "richie5um2.vscode-sort-json",
+    "unional.vscode-sort-package-json",
+    "kisstkondoros.vscode-gutter-preview",
+    "pkief.material-icon-theme",
+    "ms-vscode-remote.remote-ssh",
+    "ms-vscode-remote.remote-ssh-edit",
+    "sibiraj-s.vscode-scss-formatter",
+    "rust-lang.rust-analyzer",
+    "nuxtr.nuxtr-vscode"
+  ]
+}
